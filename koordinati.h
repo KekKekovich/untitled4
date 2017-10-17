@@ -1,0 +1,8 @@
+//
+// Created by M17-612 on 17.10.2017.
+//
+
+#ifndef UNTITLED4_KOORDINATI_H
+#define UNTITLED4_KOORDINATI_H
+
+#endif //UNTITLED4_KOORDINATI_H
